@@ -1,4 +1,3 @@
-[README.md](https://github.com/AngelaDonguia/Data-4380/files/8767909/README.md)
 ![Logo](UTA-DataScience-Logo.png)
 
 # Heart Disease Prediction
