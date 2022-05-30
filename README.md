@@ -1,4 +1,4 @@
-![Logo](UTA-DataScience-Logo.png)
+![Logo](https://raw.githubusercontent.com/AngelaDonguia/Data-4380/main/UTA-DataScience-Logo.png)
 
 # Heart Disease Prediction
 
